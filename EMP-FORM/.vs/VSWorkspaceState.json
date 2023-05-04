@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\frontend-miracle-employees",
+    "\\frontend-miracle-employees\\src",
+    "\\frontend-miracle-employees\\src\\app",
+    "\\miracle-employees",
+    "\\miracle-employees\\app",
+    "\\miracle-employees\\app\\config",
+    "\\miracle-employees\\app\\controllers",
+    "\\miracle-employees\\app\\routes"
+  ],
+  "SelectedNode": "\\miracle-employees\\app\\config\\db.config.js",
+  "PreviewInSolutionExplorer": false
+}
